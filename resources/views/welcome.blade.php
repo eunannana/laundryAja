@@ -28,7 +28,26 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
-
+                        <li class="nav-item">
+                            <a class="nav-link" href="/dashboard">
+                                Dashboard
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/layanan">
+                                Layanan
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/transaksi">
+                                Transaksi
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/progres">
+                                Progress
+                            </a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
