@@ -23,7 +23,7 @@
     {{-- livewire --}}
     @livewireStyles
 </head>
-<body style="background-image:url(https://cdn.wallpapersafari.com/13/88/JgDKMk.jpg); background-size: cover;">
+<body style="background-image:url(https://live.staticflickr.com/6026/5970963447_0f64db6be5.jpg); background-size: cover;">
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">

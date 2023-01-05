@@ -79,11 +79,11 @@
     <div class="container">
         <div class="row align-items-center text-center">
             <div class="col-md-6">
-                <h1 class="display-4">Laravel Laundry</h1>
-                <p class="mb-5">Pelayanan yang bagus dan murah</p>
+                <h1 class="display-4">Welcome to <br> LaundryAja!</h1>
+                <p class="mb-5">Your go-to-Laundry!</p>
             </div>
             <div class="col-md-6">
-                <img src="/images/hero.svg" class="img-fluid" alt="">
+                <img src="images/soap.png" class="img-fluid" alt="">
             </div>
         </div>
     </div>
@@ -124,7 +124,7 @@
    </div>
 
    <div id="footer">
-       <p class="text-center">Copyright musyahya 2021</p>
+       <p class="text-center">Copyright LaundryAja 2023</p>
    </div>
 </body>
 </html>

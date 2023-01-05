@@ -462,7 +462,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #6c757d;
+  color: #617486;
 }
 .blockquote-footer::before {
   content: "— ";
