@@ -4,7 +4,7 @@
             <!-- @include('layouts/sidebar') -->
         </div>
         <div class="col-md-8 col-lg-9">
-            <h2>Halaman Layanan</h2>
+            <h2>Service Page</h2>
 
             @include('layouts/layanan/tambah')
             @include('layouts/layanan/edit')
@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <button wire:click="show_tambah" type="button" class="btn btn-primary btn-sm mb-3">
-                        Tambah Layanan
+                        Add Service
                     </button>
                 </div>
                 <div class="col-md-4">
@@ -31,9 +31,9 @@
                 <thead>
                     <tr>
                         <th width="10%" scope="col">No</th>
-                        <th scope="col">Nama</th>
-                        <th scope="col">Durasi</th>
-                        <th scope="col">Harga</th>
+                        <th scope="col">Service</th>
+                        <th scope="col">Duration</th>
+                        <th scope="col">Price</th>
                         <th width="10%" scope="col">Aksi</th>
                     </tr>
                 </thead>
@@ -42,14 +42,14 @@
                         <tr>
                             <th scope="row">{{ $loop->iteration }}</th>
                             <td>{{ $item->nama }}</td>
-                            <td>{{ $item->durasi }} jam</td>
+                            <td>{{ $item->durasi }} hours</td>
                             <td>Rp. {{ number_format($item->harga) }}</td>
                             <td>
                                 <div class="btn-group" role="group" aria-label="Basic example">
                                     <button wire:click="show_edit({{ $item->id }})" type="button"
                                         class="btn btn-sm btn-primary mr-2">Edit</button>
                                     <button wire:click="show_hapus({{ $item->id }})" type="button"
-                                        class="btn btn-sm btn-danger">Hapus</button>
+                                        class="btn btn-sm btn-danger">Delete</button>
                                 </div>
                             </td>
                         </tr>

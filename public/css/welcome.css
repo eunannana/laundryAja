@@ -1,6 +1,4 @@
-body{
-    background-color: #dfe4ea;
-}
+
 
 /* hero */
 #hero{
@@ -14,9 +12,7 @@ body{
 
 /* layanan */
 #layanan{
-    margin-top: 150px;
-    background-color: #f1f2f6;
-    padding: 80px 0;
+
 }
 
 #layanan .card{
@@ -25,7 +21,7 @@ body{
 
 /* lokasi */
 #lokasi{
-    margin-top: 100px;
+
 }
 
 #lokasi iframe{
