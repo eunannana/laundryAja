@@ -216,8 +216,7 @@
                                 </div>
                                 <div class="detail-box">
                                     <h5>
-                                        Wash & Fold Laundry
-                                        Service
+                                        Regular
                                     </h5>
                                     <p>
                                         Duration : 48 Hours <br>
@@ -233,11 +232,11 @@
                                 </div>
                                 <div class="detail-box">
                                     <h5>
-                                        Dry Cleaning
+                                        Express
                                     </h5>
                                     <p>
                                         Duration : 24 Hours <br>
-                                        Price : 20k/kg
+                                        Price : 25k/kg
                                     </p>
                                 </div>
                             </div>
@@ -249,11 +248,11 @@
                                 </div>
                                 <div class="detail-box">
                                     <h5>
-                                        Steam Iron
+                                        Super-Express
                                     </h5>
                                     <p>
-                                        Duration : 24 Hours <br>
-                                        Price : 7k/kg
+                                        Duration : 12 Hours <br>
+                                        Price : 20k/kg
                                     </p>
                                 </div>
                             </div>
